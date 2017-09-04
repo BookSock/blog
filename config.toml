@@ -1,4 +1,4 @@
-baseURL = "http://jasonseibel.com/"
+baseURL = "https://jasonseibel.com/"
 languageCode = "en-us"
 title = "My Blog"
 theme = "ananke"

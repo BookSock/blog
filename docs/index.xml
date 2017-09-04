@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Blog</title>
-    <link>https://booksock.github.io/blog/</link>
+    <link>https://jasonseibel/</link>
     <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Sep 2017 23:46:28 -0400</lastBuildDate>
     
-	<atom:link href="https://booksock.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jasonseibel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What I Read</title>
-      <link>https://booksock.github.io/blog/posts/what-i-read/</link>
+      <link>https://jasonseibel/posts/what-i-read/</link>
       <pubDate>Sun, 03 Sep 2017 23:46:28 -0400</pubDate>
       
-      <guid>https://booksock.github.io/blog/posts/what-i-read/</guid>
+      <guid>https://jasonseibel/posts/what-i-read/</guid>
       <description>I&amp;rsquo;ll start with lists of things I have read. Hopefully I&amp;rsquo;ll add ratings or commentary in the future.
 https://web.williams.edu/Mathematics/lg5/Rota.pdf</description>
     </item>

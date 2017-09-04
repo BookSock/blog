@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://booksock.github.io/blog"
 languageCode = "en-us"
 title = "My Blog"
 theme = "ananke"

@@ -6,10 +6,21 @@
     <description>Recent content in Posts on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Sep 2017 23:46:28 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2017 00:12:12 -0400</lastBuildDate>
     
 	<atom:link href="https://jasonseibel.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Majors and Classes</title>
+      <link>https://jasonseibel.com/posts/majors-and-classes/</link>
+      <pubDate>Wed, 06 Sep 2017 00:12:12 -0400</pubDate>
+      
+      <guid>https://jasonseibel.com/posts/majors-and-classes/</guid>
+      <description>Today I think I decided to be more serious about learning more math at MIT. Understanding things from the ground up has always been my favorite way to learn and more math should make that a reality hopefully.
+I took a pretest for 6.031 and passed (I think) so now I don&amp;rsquo;t have to take 6.009. 6.031 is in Java, which I have never used before. Should be fun.
+Fire show was lit (lol).</description>
+    </item>
     
     <item>
       <title>What I Read</title>

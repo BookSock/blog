@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jasonseibel.com/posts/lofty-goals/</loc>
+    <lastmod>2017-09-08T17:45:28-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jasonseibel.com/posts/second-day-of-classes/</loc>
     <lastmod>2017-09-07T22:25:38-04:00</lastmod>
   </url>
@@ -24,13 +29,13 @@
   
   <url>
     <loc>https://jasonseibel.com/</loc>
-    <lastmod>2017-09-07T22:25:38-04:00</lastmod>
+    <lastmod>2017-09-08T17:45:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jasonseibel.com/posts/</loc>
-    <lastmod>2017-09-07T22:25:38-04:00</lastmod>
+    <lastmod>2017-09-08T17:45:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   

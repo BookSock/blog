@@ -6,10 +6,21 @@
     <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2017 17:45:28 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 21 Oct 2017 17:04:23 -0400</lastBuildDate>
     
 	<atom:link href="https://jasonseibel.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Firehose and WIFI</title>
+      <link>https://jasonseibel.com/posts/firehose/</link>
+      <pubDate>Sat, 21 Oct 2017 17:04:23 -0400</pubDate>
+      
+      <guid>https://jasonseibel.com/posts/firehose/</guid>
+      <description>Things have been busy. The gap in time between the last post and this one is perfectly indicative of how the last chunk of MIT has been. Don&amp;rsquo;t get me wrong though, everything was absolutely amazing, just super busy.
+I won&amp;rsquo;t spend time talking about all of the things that happened in this post, but hopefully I&amp;rsquo;ll get around to it at some point.
+HackMIT 2017 was the biggest time sink as the semester was starting.</description>
+    </item>
     
     <item>
       <title>Lofty Goals</title>

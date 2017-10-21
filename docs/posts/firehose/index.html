@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     
+    <title>My Blog  | Firehose and WIFI</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     <meta name="generator" content="Hugo 0.26" />
+      
+      
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      
+
+     <link href='https://jasonseibel.com/dist/main.css' rel='stylesheet' type="text/css" />
+
+     
+
+      <meta property="og:title" content="Firehose and WIFI" />
+<meta property="og:description" content="Things have been busy. The gap in time between the last post and this one is perfectly indicative of how the last chunk of MIT has been. Don&rsquo;t get me wrong though, everything was absolutely amazing, just super busy.
+I won&rsquo;t spend time talking about all of the things that happened in this post, but hopefully I&rsquo;ll get around to it at some point.
+HackMIT 2017 was the biggest time sink as the semester was starting." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jasonseibel.com/posts/firehose/" />
+
+
+
+<meta property="article:published_time" content="2017-10-21T17:04:23-04:00"/>
+<meta property="article:modified_time" content="2017-10-21T17:04:23-04:00"/>
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Firehose and WIFI">
+<meta itemprop="description" content="Things have been busy. The gap in time between the last post and this one is perfectly indicative of how the last chunk of MIT has been. Don&rsquo;t get me wrong though, everything was absolutely amazing, just super busy.
+I won&rsquo;t spend time talking about all of the things that happened in this post, but hopefully I&rsquo;ll get around to it at some point.
+HackMIT 2017 was the biggest time sink as the semester was starting.">
+
+
+<meta itemprop="dateModified" content="2017-10-21T17:04:23-04:00" />
+<meta itemprop="wordCount" content="752">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Firehose and WIFI"/>
+<meta name="twitter:description" content="Things have been busy. The gap in time between the last post and this one is perfectly indicative of how the last chunk of MIT has been. Don&rsquo;t get me wrong though, everything was absolutely amazing, just super busy.
+I won&rsquo;t spend time talking about all of the things that happened in this post, but hopefully I&rsquo;ll get around to it at some point.
+HackMIT 2017 was the biggest time sink as the semester was starting."/>
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="https://jasonseibel.com/" class="f3 fw2 hover-white no-underline white-90 dib">
+      My Blog
+    </a>
+    <div class="flex-l items-center">
+      
+      
+
+
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+    <main class="pb7" role="main">
+      
+  <div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <header>
+        <p class="f6 b helvetica tracked">
+          POSTS
+        </p>
+        <h1 class="f1">
+          Firehose and WIFI
+        </h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        <p>Things have been busy. The gap in time between the last post and this one is perfectly indicative of how the last chunk of MIT has been. Don&rsquo;t get me wrong though, everything was absolutely amazing, just super busy.</p>
+
+<p>I won&rsquo;t spend time talking about all of the things that happened in this post, but hopefully I&rsquo;ll get around to it at some point.</p>
+
+<p>HackMIT 2017 was the biggest time sink as the semester was starting. Among many many many other things, I was in charge of WIFI/Internet at HackMIT. During HackMIT 2016, we had decided to buy our own WIFI hardware so that we wouldn&rsquo;t have to pay companies to setup their hardware for us temporarily at every single event. We had a large initial upfront cost (that was actually about as expensive as just having us pay a company to handle everything like in years past), but this year I think we saw the proof of its merit and probably spent no more than one percent of the initial cost to run WIFI this year. All of these savings for HackMIT and fast reliable WIFI for all the hackers is a great deal. Except the WIFI was definitely not fast or reliable this year, as many hackers got to expeirience. However, for the first time, we made no mistakes this year and all of the problems were external to MIT&rsquo;s network team, meaning I consider this year the real proof of concept that buying our own hardware was a worthwhile decesion despite the poor internet service at the event (last year there were some other issues from both sides (and mostly ours as I understand it)). Here is the rundown of how WIFI worked at HackMIT 2017:</p>
+
+<p>We had a setup of 18 Aerohive access points (APs) around Johnson Ice Rink projecting both 2.4 and 5 Ghz. We fixed a problem from last year and had MIT turn off all of their normal APs that service Johnson Ice Rink so that there would be less interferance with our network. We had each AP wired and powered by Ethernet cables running to a network switch MIT provided in the arena. Each AP needed to be assigned an IP address directly from MIT since the devices we not trusted by MIT&rsquo;s network. We managed all of the APs through Aerohive&rsquo;s cloud portal and setup and tested the network days before the event with speeds around 150 mbps. We also provided Ethernet cables for use by hackers by distributing 8 gigabit switches to square clusters of 9 tables in the arena. Each gigabit switch connected to the switch provided by MIT and then branched out into the 8 surrounding tables where smaller <sup>10</sup>&frasl;<sub>100</sub> mbps switches we stationed. We only served around <sup>1</sup>&frasl;<sub>3</sub> of the tables in the arena with wired ethernet since we saw very low usage and demand at last years HackMIT.</p>
+
+<p>So some of the problems we had this year:
+Devices were either not being assigned private IP addresses from MIT&rsquo;s network or in <sup>1</sup>&frasl;<sub>3</sub> of the cases were being assigned invalid private IP addresses. We investigated this by observing some invalid IP addresses in the Aerohive cloud interface and devices showing they were connected to our WIFI network, but had not been assigned IP addresses. We contacted MIT and they reaized that they had only assigned us somewhere around 700 IP addresses (we have roughly 1300 people attending with probably 2 devices each on average). They increased our private IP address allocation and the problem seemed to go away for a large proportion of hackers. However, some were still completely unable to connect and after probing many hackers network configs, we found out that a certain private IP ranges were getting assigned an MIT DNS address that would only allow them to visit pages internal to MIT. These IP ranges had actually been configured incorrectly by MIT network employees and once we told them about the specific ranges affected, they found a firewall misconfiguration that was impacting these users. Finally, after this was addresses, the WIFI flowed again (as well as Ethernet which was affected by exactly the same problems as the WIFI had) and hackers could work on their projects - or torrent to their heart&rsquo;s content like the person that downloaded something like 28GB during the 24 hour event.</p>
+
+<p>Running WIFI was really fun and I think most hackathons would benefit from buying their own network hardware.</p>
+
+<p>That&rsquo;s all for now, but more to come and hopefully sooner.</p>
+
+      </div>
+    </article>
+    <aside class="ph3 mt2 mt6-ns">
+      
+
+
+
+
+
+
+
+  <div class="bg-light-gray pa3">
+    <ul>
+      <li class="list b mb3">
+        4 More Posts
+      </li>
+      
+        <li class="list f5 w-100 hover-bg-white nl1">
+          
+          <a href="/posts/firehose/" class="link ph2 pv2 db black o-50">
+            Firehose and WIFI
+          </a>
+        </li>
+      
+        <li class="list f5 w-100 hover-bg-white nl1">
+          
+          <a href="/posts/lofty-goals/" class="link ph2 pv2 db black">
+            Lofty Goals
+          </a>
+        </li>
+      
+        <li class="list f5 w-100 hover-bg-white nl1">
+          
+          <a href="/posts/second-day-of-classes/" class="link ph2 pv2 db black">
+            Second Day of Classes
+          </a>
+        </li>
+      
+        <li class="list f5 w-100 hover-bg-white nl1">
+          
+          <a href="/posts/majors-and-classes/" class="link ph2 pv2 db black">
+            Majors and Classes
+          </a>
+        </li>
+      
+        <li class="list f5 w-100 hover-bg-white nl1">
+          
+          <a href="/posts/what-i-read/" class="link ph2 pv2 db black">
+            What I Read
+          </a>
+        </li>
+      
+    </ul>
+  </div>
+
+
+    </aside>
+  </div>
+
+    </main>
+    <footer class="bg-near-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://jasonseibel.com/" >
+    &copy; 2017 My Blog
+  </a>
+  
+
+
+
+
+
+
+  </div>
+</footer>
+
+    <script src="https://jasonseibel.com/dist/app.bundle.js" async></script>
+
+  </body>
+</html>

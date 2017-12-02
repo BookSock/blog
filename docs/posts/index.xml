@@ -6,10 +6,19 @@
     <description>Recent content in Posts on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Oct 2017 17:04:23 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2017 17:54:50 -0500</lastBuildDate>
     
 	<atom:link href="https://jasonseibel.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Last While</title>
+      <link>https://jasonseibel.com/posts/the-last-while/</link>
+      <pubDate>Thu, 23 Nov 2017 17:54:50 -0500</pubDate>
+      
+      <guid>https://jasonseibel.com/posts/the-last-while/</guid>
+      <description>MIT has been fun for the last while. The most surprising class has definitely been 17.811 Game Theory and Political Science. It takes both a mathematical and political approach to Game Theory and is a combined graduate and undergraduate class with about 14 students. There&amp;rsquo;s one two hour lecture a week in a cozy classroom with the professor that interjects with snippets from their research. I definitely think it is my favorite HASS (Humanities and Social Sciences) class I&amp;rsquo;ve taken at MIT so far.</description>
+    </item>
     
     <item>
       <title>Firehose and WIFI</title>

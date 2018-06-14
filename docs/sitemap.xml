@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jasonseibel.com/posts/summer-2018/</loc>
+    <lastmod>2018-06-14T16:28:51-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jasonseibel.com/posts/the-last-while/</loc>
     <lastmod>2017-11-23T17:54:50-05:00</lastmod>
   </url>
@@ -39,13 +44,13 @@
   
   <url>
     <loc>https://jasonseibel.com/</loc>
-    <lastmod>2017-11-23T17:54:50-05:00</lastmod>
+    <lastmod>2018-06-14T16:28:51-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jasonseibel.com/posts/</loc>
-    <lastmod>2017-11-23T17:54:50-05:00</lastmod>
+    <lastmod>2018-06-14T16:28:51-07:00</lastmod>
     <priority>0</priority>
   </url>
   

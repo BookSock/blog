@@ -6,10 +6,23 @@
     <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Jun 2018 16:28:51 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 13:22:41 -0700</lastBuildDate>
     
 	<atom:link href="https://jasonseibel.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>View As Twitter and Smartphone wallets</title>
+      <link>https://jasonseibel.com/posts/view-as-twitter/</link>
+      <pubDate>Wed, 12 Jun 2019 13:22:41 -0700</pubDate>
+      
+      <guid>https://jasonseibel.com/posts/view-as-twitter/</guid>
+      <description>I made this:
+https://viewastwitter.com/
+Automatically make Twitter lists that mirror the follows of another twitter user. This will let you see something similar to what the other user&amp;rsquo;s twitter feed sees. I think this could be cool for exploring other communities on twitter, or more easily generating Twitter lists for different subjects (like subreddits).
+On the blog note:
+Smartphone wallets - pretty awesome, but I feel like people ignore their value because the rubber ones are horrible or they think they need a phone case for their phone.</description>
+    </item>
     
     <item>
       <title>Summer 2018</title>

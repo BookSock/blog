@@ -1,7 +1,7 @@
 ---
 title: "Majors and Classes"
 date: 2017-09-06T00:12:12-04:00
-draft: false
+draft: true
 ---
 
 Today I think I decided to be more serious about learning more math at MIT.

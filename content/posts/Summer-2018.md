@@ -1,7 +1,7 @@
 ---
 title: "Summer 2018"
 date: 2018-06-14T16:28:51-07:00
-draft: false
+draft: true
 ---
 
 Dropped my Uber ATG internship and now in SF with funding to work on whatever projects I want. After the advice of some good friends, I am focusing my first chunk of time on reading. Here are some places I found cool things to read:

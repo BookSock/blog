@@ -1,7 +1,7 @@
 ---
 title: "Lofty Goals"
 date: 2017-09-08T17:45:28-04:00
-draft: false
+draft: true
 ---
 
 Fell off my loft this morning. The ladder was built to only sit loose on the bed frame and slipped as I was climbing down to turn off my alarm. I fell onto the ladder and sliced the inner ball of my foot.  Not even sure what my foot hit against, but my roommate and another

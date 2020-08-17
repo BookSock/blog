@@ -1,7 +1,7 @@
 ---
 title: "Second Day of Classes"
 date: 2017-09-07T22:25:38-04:00
-draft: false
+draft: true
 ---
 
 I picked my classes last night and am satisfied I

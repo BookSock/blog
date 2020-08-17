@@ -1,7 +1,7 @@
 ---
 title: "Firehose and WIFI"
 date: 2017-10-21T17:04:23-04:00
-draft: false
+draft: true
 ---
 
 Things have been busy. The gap in time between the last post and this one is perfectly indicative of how the last chunk of MIT has been. Don't get me wrong though, everything was absolutely amazing, just super busy.
